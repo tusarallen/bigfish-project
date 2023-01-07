@@ -106,4 +106,100 @@ ul {
     text-align: center;
     color: #737272;
 }
+
 /* last-main-section  */
+.last-main {
+    margin: 0px 230px;
+    width: 1140px;
+    height: 300px;
+    border-radius: 8px;
+    background-image: url('../images/watch.png');
+    justify-content: center;
+    margin-bottom: 120px;
+}
+
+.last-main-section {
+    width: 459px;
+    height: 182px;
+    padding-top: 58px;
+    padding-bottom: 58px;
+    padding-left: 64px;
+    padding-right: 615px;
+}
+
+.last-main-section-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    ;
+}
+
+/* start-footer-section  */
+.feet {
+    display: flex;
+    width: 1600px;
+    height: 400px;
+    background: #151414;
+}
+
+.future {
+    margin-left: 230px;
+    padding-top: 50px;
+}
+
+.future-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-bottom: 20px;
+}
+
+.future-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 70px;
+}
+
+.icon {
+    gap: 30px;
+    padding-left: 220px;
+}
+
+.flex-2 {
+    width: 325px;
+    height: 204px;
+    padding-top: 45px;
+    padding-left: 350px;
+    padding-right: 80px;
+}
+
+.h2 {
+    font-weight: 600;
+    font-size: 30px;
+    color: #FFFFFF;
+    margin-bottom: 18px;
+}
+
+.email-input {
+    font-weight: 400;
+    font-size: 18px;
+    color: #F3F3F3;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 300;
+    padding-right: 30px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+}
+
+.btn {
+    width: 170.11px;
+    height: 64px;
+    background: #005FAC;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+/* end-footer-section  */
