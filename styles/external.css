@@ -146,7 +146,8 @@ ul {
 }
 
 .future {
-    margin-left: 230px;
+    /* margin-left: 230px; */
+    margin-left: 150px;
     padding-top: 50px;
 }
 
@@ -174,7 +175,8 @@ ul {
     width: 325px;
     height: 204px;
     padding-top: 45px;
-    padding-left: 350px;
+    /* padding-left: 350px; */
+    padding-left: 280px;
     padding-right: 80px;
 }
 
