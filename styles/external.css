@@ -46,7 +46,8 @@
 /* start-main-section */
 .main-section {
     display: flex;
-    margin-left: 220px;
+    /* margin-left: 220px; */
+    margin-left: 70px;
     align-items: center;
     width: 1072px;
     height: 723.3px;
