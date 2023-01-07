@@ -128,6 +128,8 @@ ul {
     padding-bottom: 58px;
     padding-left: 64px;
     padding-right: 615px;
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    border-radius: 8px;
 }
 
 .last-main-section-title {
